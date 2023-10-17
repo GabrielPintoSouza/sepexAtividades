@@ -13,6 +13,10 @@ int multiplicacao (int n1, int n2){
     return n1*n2;
 }
 
+float divisao (int n1, int n2){
+    return n1/n2;
+}
+
 int main()
 {
     char operacao;
