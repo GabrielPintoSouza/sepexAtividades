@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1697566420 source:/home/aluno/Documentos/GabrielPS/repositorioGIT/sepexAtividades/CalculadoraBasica/main.c
+	<stdio.h>
+	<stdlib.h>
+
